@@ -11,6 +11,18 @@
 | `docker ps` | List all running containers |
 | `docker ps -a` | List all containers, including stopped ones |
 
+
+## Image Management
+
+| Code Snippet | Description |
+| ------------ | ----------- |
+| `images` | Show all images |
+| `docker start container` | Start a stopped container |
+| `docker stop container` | Stop a running container |
+| `docker rm container` | Remove a stopped container |
+| `docker ps` | List all running containers |
+| `docker ps -a` | List all containers, including stopped ones |
+
 ## Image Management
 
 | Code Snippet | Description |
